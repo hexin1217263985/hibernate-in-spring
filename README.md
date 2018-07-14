@@ -1,0 +1,1 @@
+Hibernate used demo in Spring.
